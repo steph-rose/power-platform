@@ -109,7 +109,7 @@ You'll complete the first several steps in the Azure portal. You'll complete the
 
     - **Client secret**: Enter the client secret you generated earlier from the Azure portal.
 
-    - **Scopes**: Enter `profile openid`.
+    - **Scopes**: Enter `profile openid Sites.Read.All Files.Read.All`.
 
 1. Select **Save** to finish the configuration.
 
